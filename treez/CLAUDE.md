@@ -4,9 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this vault is
 
-This Obsidian vault contains **LLM Wiki.md** — a pattern document describing how to build a personal knowledge base maintained by an LLM. It is an idea file meant to be shared with an LLM agent so that agent can instantiate a concrete wiki implementation tailored to the user's domain and preferences.
+This Obsidian vault is a knowledge base about **Treez ecom** — the e-commerce platform built at Treez before it became GapCommerce. The goal is to incrementally build and maintain a structured wiki about this product: its architecture, history, decisions, and domain knowledge.
 
-The vault itself is not a wiki yet — it's the seed from which one is built.
+The **LLM Wiki.md** file in this vault describes the general pattern this wiki follows.
 
 ## The pattern (summary)
 
@@ -23,6 +23,31 @@ Three core operations:
 - **Ingest** — read a new source, integrate it into the wiki (may touch 10–15 pages), update index, append to log
 - **Query** — read index to find relevant pages, synthesize answer; file good answers back as wiki pages so they compound
 - **Lint** — health-check wiki for contradictions, stale claims, orphan pages, missing cross-references, data gaps
+
+## Repo document workflow
+
+Each Treez ecom repo is analyzed independently (with full codebase context) and produces a structured document saved to `raw/<repo-name>.md`. Wiki pages are then built here by ingesting all raw documents together, enabling cross-repo synthesis.
+
+**Template:** `raw/templates/repo-doc-template.md`
+
+### Generating a repo document (do this inside each repo)
+
+1. Open Claude Code in the repo:
+   ```bash
+   cd /path/to/repo
+   claude
+   ```
+2. Run this prompt:
+   > "Read this codebase and generate a repo document following the template at `/Users/alex/obsidian/treez/raw/templates/repo-doc-template.md`. Save the output to `/Users/alex/obsidian/treez/raw/<repo-name>.md`."
+3. Optionally guide the focus: *"prioritize the checkout flow and payment logic"* if the repo is large.
+
+For best results, paste the above prompt into each repo's `CLAUDE.md` so it's repeatable without looking it up.
+
+### Building the wiki from raw docs (do this here)
+
+Once one or more raw docs are ready, say **"ingest"** and Claude will read all raw documents together and update the wiki with cross-repo synthesis — shared concepts, service dependencies, data flow, and a page mapping third-party service overlap across repos.
+
+---
 
 ## When instantiating a wiki from this pattern
 
