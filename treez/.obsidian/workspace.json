@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "LLM Wiki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "LLM Wiki"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "b7f501147a7283fb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/tenant-provisioning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tenant-provisioning"
             }
           }
         ]
@@ -199,15 +203,39 @@
       "bases:Create new base": false
     }
   },
-  "active": "10a9978f6951108e",
+  "active": "b7f501147a7283fb",
   "lastOpenFiles": [
+    "wiki/concepts/search-architecture.md",
+    "wiki/concepts/order-lifecycle.md",
+    "wiki/concepts/multi-tenancy.md",
+    "wiki/entities/order.md",
+    "wiki/services/group-cdk.md",
+    "wiki/services/e-com-srv.md",
+    "wiki/services/selltreez-cdk.md",
+    "Third-Party Services Map.md",
+    "wiki/services/e-com-lib.md",
+    "index.md",
+    "log.md",
+    "wiki/overview.md",
     "LLM Wiki.md",
-    "CLAUDE.md",
-    "raw/templates/repo-doc-template.md",
+    "wiki/services/gap-dashboard.md",
+    "wiki/potential-improvements.md",
+    "wiki/third-party-map.md",
+    "wiki/dependency-map.md",
+    "wiki/concepts/tenant-provisioning.md",
+    "wiki/concepts/worker-pipeline.md",
+    "wiki/concepts/pos-integration.md",
+    "wiki/entities/promotion.md",
+    "wiki/entities/app-integration.md",
+    "wiki/entities/group.md",
+    "wiki/entities/store.md",
+    "wiki/entities/product.md",
+    "wiki/entities/account.md",
+    "wiki/services",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki",
     "raw/templates",
-    "raw",
-    "Untitled 1.md",
-    "Welcome.md",
-    "create a link.md"
+    "raw"
   ]
 }
