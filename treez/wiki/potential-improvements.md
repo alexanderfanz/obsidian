@@ -1,5 +1,7 @@
 # Potential Improvements
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Consolidated view of issues and improvement opportunities spotted across all repos. Organized by priority, then by theme.
 
 ## High Priority

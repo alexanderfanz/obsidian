@@ -1,5 +1,7 @@
 # Promotion
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Discount rules applied to orders. Two parallel systems exist: the e-com promotion engine and the SellTreez discount system.
 
 ## E-com Promotions (e-com-lib / e-com-srv)

@@ -1,5 +1,7 @@
 # Platform Overview
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 The Treez Ecom platform (branded as **GapCommerce** / **Gap Commerce**) is a multi-tenant cannabis e-commerce system. It provides dispensary operators with online storefronts, order management, inventory sync with POS systems, payment processing, CRM integrations, and delivery logistics — all running on AWS serverless infrastructure.
 
 ## Architecture Layers

@@ -47,6 +47,22 @@ For best results, paste the above prompt into each repo's `CLAUDE.md` so it's re
 
 Once one or more raw docs are ready, say **"ingest"** and Claude will read all raw documents together and update the wiki with cross-repo synthesis — shared concepts, service dependencies, data flow, and a page mapping third-party service overlap across repos.
 
+### Deep-dive prompts (topic-specific)
+
+For deep dives into specific topics (e.g. the full order lifecycle), targeted prompts live in `raw/templates/`. These are more focused than the general repo doc template — they extract exhaustive detail about a single domain concept across all repos that touch it. Outputs go to `raw/<topic>/` (e.g. `raw/order-lifecycle/`). After running all prompts, say **"ingest order lifecycle"** (or the relevant topic) to build the detailed wiki page.
+
+---
+
+## Confluence sync
+
+Wiki pages are intended to be synced to Confluence as read-only mirrors. Every wiki page must include this warning blockquote immediately after the `# Title`:
+
+```markdown
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+```
+
+**Obsidian is the source of truth.** Confluence is the distribution channel. When creating or updating wiki pages, always include this note. The sync method (CLI tool, plugin, or API script) is TBD — the note ensures readers know not to edit in Confluence regardless of how pages get there.
+
 ---
 
 ## When instantiating a wiki from this pattern

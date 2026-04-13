@@ -1,5 +1,7 @@
 # e-com-lib
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Shared Go library — the single source of truth for domain models and service contracts across the GapCommerce platform.
 
 **Repo:** [gap-commerce/e-com-lib](https://github.com/gap-commerce/e-com-lib) | **Language:** Go | **Type:** Library (not deployed independently)

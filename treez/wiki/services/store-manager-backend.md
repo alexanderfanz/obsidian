@@ -1,5 +1,7 @@
 # Store Manager Backend
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Control plane API for the GapCommerce multi-tenant platform. Manages the lifecycle of Groups, Stores, and SellTreez clusters.
 
 **Repo:** [gap-commerce/ops-infra/gap-store-manager/backend](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/backend) | **Language:** TypeScript | **Runtime:** 4 AWS Lambdas + API Gateway | **Part of:** [[ops-infra]]

@@ -1,5 +1,7 @@
 # selltreez-api-srv
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Multi-tenant REST API for product search, discount management, store config, and customer groups. Primary backend for the SellTreez storefront experience.
 
 **Repo:** [gap-commerce/selltreez-api-srv](https://github.com/gap-commerce/selltreez-api-srv) | **Language:** Go | **Runtime:** AWS Lambda or standalone HTTP | **API:** REST

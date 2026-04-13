@@ -1,5 +1,7 @@
 # Index
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Content catalog for the Treez Ecom wiki. Updated on every ingest.
 
 ## Overview
@@ -48,7 +50,7 @@ Content catalog for the Treez Ecom wiki. Updated on every ingest.
 ## Concepts
 
 - [[Multi-Tenancy]] — Tenant hierarchy, data isolation, infrastructure isolation, request scoping
-- [[Order Lifecycle]] — Full flow: cart → checkout → post-purchase → webhooks → notifications
+- [[Order Lifecycle]] — **Deep dive**: complete flow with every status, transition, code path, edge case, payment flow, POS handler, notification, and known bug
 - [[POS Integration]] — Treez/Dutchie/Jane/Blaze abstraction, inbound/outbound flows
 - [[Worker Pipeline]] — SQS pipeline DSL from e-com-lib: predicate routing, processor chaining
 - [[Tenant Provisioning]] — Dynamic infrastructure: Store Manager → EventBridge → CodeBuild → CDK

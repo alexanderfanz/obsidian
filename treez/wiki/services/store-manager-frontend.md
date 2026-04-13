@@ -1,5 +1,7 @@
 # Store Manager Frontend
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 React SPA for internal operators to manage the GapCommerce multi-tenant platform.
 
 **Repo:** [gap-commerce/ops-infra/gap-store-manager/frontend](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/frontend) | **Language:** TypeScript/React 18 | **Build:** Vite | **Hosting:** Vercel | **Part of:** [[ops-infra]]

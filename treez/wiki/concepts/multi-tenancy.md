@@ -1,5 +1,7 @@
 # Multi-Tenancy
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Every piece of the GapCommerce platform is multi-tenant. A single deployment serves all merchants. Tenant isolation is achieved at the data level, not the code level.
 
 ## Tenant hierarchy

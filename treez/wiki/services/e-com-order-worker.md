@@ -1,5 +1,7 @@
 # e-com-order-worker
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Processes order completion events — enriches orders, upserts customer accounts, and fans out to downstream integrations.
 
 **Repo:** [gap-commerce/e-com-order-worker](https://github.com/gap-commerce/e-com-order-worker) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS

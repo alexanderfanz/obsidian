@@ -1,5 +1,7 @@
 # e-com-srv
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Central GraphQL API for the GapCommerce e-commerce platform. Orchestrates the full cart/order lifecycle across multiple POS systems, payment processors, and CRM platforms.
 
 **Repo:** [gap-commerce/e-com-srv](https://github.com/gap-commerce/e-com-srv) | **Language:** Go | **Runtime:** AWS Lambda (serverless) | **API:** GraphQL (`/query`)

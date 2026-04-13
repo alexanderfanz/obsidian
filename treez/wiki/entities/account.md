@@ -1,5 +1,7 @@
 # Account (Customer)
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 The customer profile entity. Represents a shopper who interacts with a dispensary storefront.
 
 ## Where it lives

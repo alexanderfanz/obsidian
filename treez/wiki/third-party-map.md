@@ -1,5 +1,7 @@
 # Third-Party Services Map
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Cross-repo view of every external service the platform depends on.
 
 ## POS / ERP

@@ -1,5 +1,7 @@
 # Worker Pipeline
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 All async workers in the platform use a pipeline DSL from [[e-com-lib]] (`pkg/worker`).
 
 ## Pipeline structure

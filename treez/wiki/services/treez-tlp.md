@@ -1,5 +1,7 @@
 # treez-tlp
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Next.js 15 storefront template powering 50+ cannabis dispensary e-commerce sites.
 
 **Repo:** [gap-commerce/treez-tlp](https://github.com/gap-commerce/treez-tlp) | **Language:** TypeScript/Next.js 15 | **Hosting:** Vercel | **CMS:** Prismic

@@ -1,5 +1,7 @@
 # Group CDK
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 AWS CDK stack provisioning all infrastructure for a single merchant Group. Deployed N times (once per group) by CodeBuild.
 
 **Repo:** [gap-commerce/ops-infra/gap-store-manager/cdk/group](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/cdk/group) | **Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]

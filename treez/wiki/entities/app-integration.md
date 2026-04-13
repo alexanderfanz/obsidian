@@ -1,5 +1,7 @@
 # App Integration
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 A polymorphic configuration record representing a third-party integration attached to a store.
 
 ## The polymorphic pattern

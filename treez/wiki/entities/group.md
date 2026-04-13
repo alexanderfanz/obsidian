@@ -1,5 +1,7 @@
 # Group
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Top-level multi-tenant entity representing a merchant organization. The parent of [[Store]]s.
 
 ## Where it lives

@@ -1,5 +1,7 @@
 # gap-dashboard
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 React admin dashboard for cannabis retailers to manage stores, orders, products, customers, promotions, deliveries, and integrations.
 
 **Repo:** [gap-commerce/gap-dashboard](https://github.com/gap-commerce/gap-dashboard) | **Language:** TypeScript/React | **Build:** CRA + Craco | **Hosting:** Vercel

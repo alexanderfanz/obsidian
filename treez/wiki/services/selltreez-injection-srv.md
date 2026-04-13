@@ -1,5 +1,7 @@
 # selltreez-injection-srv
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Ingests product, discount, config, and group events from EventBridge (via SQS) and writes to OpenSearch and DynamoDB.
 
 **Repo:** [gap-commerce/selltreez-injection-srv](https://github.com/gap-commerce/selltreez-injection-srv) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS (fed by EventBridge)

@@ -1,5 +1,7 @@
 # e-com-notification-worker
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Processes SQS notification events and sends templated HTML emails via AWS SES.
 
 **Repo:** [gap-commerce/e-com-notification-worker](https://github.com/gap-commerce/e-com-notification-worker) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS

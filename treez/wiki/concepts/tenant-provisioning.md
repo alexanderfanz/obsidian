@@ -1,5 +1,7 @@
 # Tenant Provisioning
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 New merchants and stores are provisioned dynamically — no manual AWS console work. The [[Store Manager Backend]] drives the entire lifecycle.
 
 ## Provisioning flow

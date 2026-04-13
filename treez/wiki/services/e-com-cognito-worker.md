@@ -1,5 +1,7 @@
 # e-com-cognito-worker
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Processes Cognito user lifecycle events — auto-confirms users, bootstraps accounts, syncs to Jane, subscribes to CRMs.
 
 **Repo:** [gap-commerce/e-com-cognito-worker](https://github.com/gap-commerce/e-com-cognito-worker) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** Cognito Lambda triggers

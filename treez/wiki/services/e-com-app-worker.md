@@ -1,5 +1,7 @@
 # e-com-app-worker
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Processes async SQS events for order placement (to POS), CRM subscriptions, loyalty discounts, and new store initialization.
 
 **Repo:** [gap-commerce/e-com-app-worker](https://github.com/gap-commerce/e-com-app-worker) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS

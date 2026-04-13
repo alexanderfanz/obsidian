@@ -1,5 +1,7 @@
 # Store CDK
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 AWS CDK stack provisioning infrastructure for a single retail Store within a Group.
 
 **Repo:** [gap-commerce/ops-infra/gap-store-manager/cdk/store](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/cdk/store) | **Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]

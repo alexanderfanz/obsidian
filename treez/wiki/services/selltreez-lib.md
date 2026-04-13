@@ -1,5 +1,7 @@
 # selltreez-lib
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Shared Go library for the SellTreez search pipeline — domain models, discount evaluation logic, and OpenSearch utilities.
 
 **Repo:** [gap-commerce/selltreez-lib](https://github.com/gap-commerce/selltreez-lib) | **Language:** Go | **Type:** Library (not deployed independently)

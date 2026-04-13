@@ -1,5 +1,7 @@
 # POS Integration
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 The platform abstracts over multiple cannabis POS/ERP systems. Each store can connect to one or more POS providers.
 
 ## Supported POS systems

@@ -1,5 +1,7 @@
 # TrackingTreez CDK
 
+> **Auto-synced from Obsidian** — Do not edit this page directly. Your changes will be overwritten on the next sync. If you need to add information, create a new page and link to this one.
+
 Serverless analytics data lake for search event tracking. Shared across all SellTreez clusters.
 
 **Repo:** [gap-commerce/ops-infra/gap-store-manager/cdk/trackingtreez](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/cdk/trackingtreez) | **Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
