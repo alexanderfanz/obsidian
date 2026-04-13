@@ -2,7 +2,7 @@
 
 AWS CDK stack provisioning all infrastructure for a single merchant Group. Deployed N times (once per group) by CodeBuild.
 
-**Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
+**Repo:** [gap-commerce/ops-infra/gap-store-manager/cdk/group](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/cdk/group) | **Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
 
 ## Resources created per Group
 

@@ -2,7 +2,7 @@
 
 AWS CDK stack provisioning a dedicated OpenSearch-powered product search cluster.
 
-**Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
+**Repo:** [gap-commerce/ops-infra/gap-store-manager/cdk/selltreez](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/cdk/selltreez) | **Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
 
 ## Resources created per SellTreez cluster
 

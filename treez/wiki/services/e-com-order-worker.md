@@ -2,7 +2,7 @@
 
 Processes order completion events — enriches orders, upserts customer accounts, and fans out to downstream integrations.
 
-**Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS
+**Repo:** [gap-commerce/e-com-order-worker](https://github.com/gap-commerce/e-com-order-worker) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS
 
 ## Event types handled
 

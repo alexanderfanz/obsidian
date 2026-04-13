@@ -2,7 +2,7 @@
 
 Multi-tenant REST API for product search, discount management, store config, and customer groups. Primary backend for the SellTreez storefront experience.
 
-**Language:** Go | **Runtime:** AWS Lambda or standalone HTTP | **API:** REST
+**Repo:** [gap-commerce/selltreez-api-srv](https://github.com/gap-commerce/selltreez-api-srv) | **Language:** Go | **Runtime:** AWS Lambda or standalone HTTP | **API:** REST
 
 ## Routes
 

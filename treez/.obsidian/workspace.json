@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/tenant-provisioning.md",
+                "file": "wiki/services/store-cdk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tenant-provisioning"
+              "title": "store-cdk"
             }
           }
         ]
@@ -205,6 +205,11 @@
   },
   "active": "b7f501147a7283fb",
   "lastOpenFiles": [
+    "wiki/services/ops-infra.md",
+    "wiki/services/store-cdk.md",
+    "wiki/services/e-com-order-worker.md",
+    "wiki/services/e-com-lib.md",
+    "wiki/concepts/tenant-provisioning.md",
     "wiki/concepts/search-architecture.md",
     "wiki/concepts/order-lifecycle.md",
     "wiki/concepts/multi-tenancy.md",
@@ -213,7 +218,6 @@
     "wiki/services/e-com-srv.md",
     "wiki/services/selltreez-cdk.md",
     "Third-Party Services Map.md",
-    "wiki/services/e-com-lib.md",
     "index.md",
     "log.md",
     "wiki/overview.md",
@@ -222,15 +226,11 @@
     "wiki/potential-improvements.md",
     "wiki/third-party-map.md",
     "wiki/dependency-map.md",
-    "wiki/concepts/tenant-provisioning.md",
     "wiki/concepts/worker-pipeline.md",
     "wiki/concepts/pos-integration.md",
     "wiki/entities/promotion.md",
     "wiki/entities/app-integration.md",
     "wiki/entities/group.md",
-    "wiki/entities/store.md",
-    "wiki/entities/product.md",
-    "wiki/entities/account.md",
     "wiki/services",
     "wiki/entities",
     "wiki/concepts",

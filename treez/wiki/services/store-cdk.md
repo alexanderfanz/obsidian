@@ -2,7 +2,7 @@
 
 AWS CDK stack provisioning infrastructure for a single retail Store within a Group.
 
-**Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
+**Repo:** [gap-commerce/ops-infra/gap-store-manager/cdk/store](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/cdk/store) | **Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
 
 ## Resources created per Store
 

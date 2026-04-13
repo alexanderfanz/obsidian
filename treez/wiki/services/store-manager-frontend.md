@@ -2,7 +2,7 @@
 
 React SPA for internal operators to manage the GapCommerce multi-tenant platform.
 
-**Language:** TypeScript/React 18 | **Build:** Vite | **Hosting:** Vercel | **Part of:** [[ops-infra]]
+**Repo:** [gap-commerce/ops-infra/gap-store-manager/frontend](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/frontend) | **Language:** TypeScript/React 18 | **Build:** Vite | **Hosting:** Vercel | **Part of:** [[ops-infra]]
 
 ## What operators do here
 

@@ -2,7 +2,7 @@
 
 Serverless analytics data lake for search event tracking. Shared across all SellTreez clusters.
 
-**Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
+**Repo:** [gap-commerce/ops-infra/gap-store-manager/cdk/trackingtreez](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/cdk/trackingtreez) | **Language:** TypeScript | **IaC:** AWS CDK | **Part of:** [[ops-infra]]
 
 ## Resources created
 

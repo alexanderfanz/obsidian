@@ -2,7 +2,7 @@
 
 Next.js 15 storefront template powering 50+ cannabis dispensary e-commerce sites.
 
-**Language:** TypeScript/Next.js 15 | **Hosting:** Vercel | **CMS:** Prismic
+**Repo:** [gap-commerce/treez-tlp](https://github.com/gap-commerce/treez-tlp) | **Language:** TypeScript/Next.js 15 | **Hosting:** Vercel | **CMS:** Prismic
 
 ## What it does
 

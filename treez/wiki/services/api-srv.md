@@ -2,7 +2,7 @@
 
 Webhook orchestration service — the integration backbone between external POS/delivery systems and the GapCommerce platform.
 
-**Language:** Go | **Runtime:** AWS Lambda (ARM64) | **API:** REST
+**Repo:** [gap-commerce/api-srv](https://github.com/gap-commerce/api-srv) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **API:** REST
 
 ## What it does
 

@@ -2,7 +2,7 @@
 
 Shared Go library — the single source of truth for domain models and service contracts across the GapCommerce platform.
 
-**Language:** Go | **Type:** Library (not deployed independently)
+**Repo:** [gap-commerce/e-com-lib](https://github.com/gap-commerce/e-com-lib) | **Language:** Go | **Type:** Library (not deployed independently)
 
 ## What it owns
 

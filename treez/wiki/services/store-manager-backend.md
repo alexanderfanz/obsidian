@@ -2,7 +2,7 @@
 
 Control plane API for the GapCommerce multi-tenant platform. Manages the lifecycle of Groups, Stores, and SellTreez clusters.
 
-**Language:** TypeScript | **Runtime:** 4 AWS Lambdas + API Gateway | **Part of:** [[ops-infra]]
+**Repo:** [gap-commerce/ops-infra/gap-store-manager/backend](https://github.com/gap-commerce/ops-infra/tree/master/gap-store-manager/backend) | **Language:** TypeScript | **Runtime:** 4 AWS Lambdas + API Gateway | **Part of:** [[ops-infra]]
 
 ## Lambda functions
 

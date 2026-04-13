@@ -2,7 +2,7 @@
 
 Processes async SQS events for order placement (to POS), CRM subscriptions, loyalty discounts, and new store initialization.
 
-**Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS
+**Repo:** [gap-commerce/e-com-app-worker](https://github.com/gap-commerce/e-com-app-worker) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS
 
 ## Event types handled
 

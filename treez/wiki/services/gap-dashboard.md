@@ -2,7 +2,7 @@
 
 React admin dashboard for cannabis retailers to manage stores, orders, products, customers, promotions, deliveries, and integrations.
 
-**Language:** TypeScript/React | **Build:** CRA + Craco | **Hosting:** Vercel
+**Repo:** [gap-commerce/gap-dashboard](https://github.com/gap-commerce/gap-dashboard) | **Language:** TypeScript/React | **Build:** CRA + Craco | **Hosting:** Vercel
 
 ## What operators do here
 

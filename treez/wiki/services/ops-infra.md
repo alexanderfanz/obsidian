@@ -2,7 +2,7 @@
 
 Infrastructure-as-code monorepo — the single source of truth for how the GapCommerce multi-tenant platform is provisioned and operated.
 
-**Language:** TypeScript | **IaC:** AWS CDK | **Type:** Monorepo
+**Repo:** [gap-commerce/ops-infra](https://github.com/gap-commerce/ops-infra) | **Language:** TypeScript | **IaC:** AWS CDK | **Type:** Monorepo
 
 ## Sub-components
 

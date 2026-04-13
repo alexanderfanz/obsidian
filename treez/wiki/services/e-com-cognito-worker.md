@@ -2,7 +2,7 @@
 
 Processes Cognito user lifecycle events — auto-confirms users, bootstraps accounts, syncs to Jane, subscribes to CRMs.
 
-**Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** Cognito Lambda triggers
+**Repo:** [gap-commerce/e-com-cognito-worker](https://github.com/gap-commerce/e-com-cognito-worker) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** Cognito Lambda triggers
 
 ## Trigger types handled
 

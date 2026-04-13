@@ -2,7 +2,7 @@
 
 Processes SQS notification events and sends templated HTML emails via AWS SES.
 
-**Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS
+**Repo:** [gap-commerce/e-com-notification-worker](https://github.com/gap-commerce/e-com-notification-worker) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS
 
 ## Event types handled
 

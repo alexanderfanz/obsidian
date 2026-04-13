@@ -2,7 +2,7 @@
 
 Central GraphQL API for the GapCommerce e-commerce platform. Orchestrates the full cart/order lifecycle across multiple POS systems, payment processors, and CRM platforms.
 
-**Language:** Go | **Runtime:** AWS Lambda (serverless) | **API:** GraphQL (`/query`)
+**Repo:** [gap-commerce/e-com-srv](https://github.com/gap-commerce/e-com-srv) | **Language:** Go | **Runtime:** AWS Lambda (serverless) | **API:** GraphQL (`/query`)
 
 ## What it does
 

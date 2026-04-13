@@ -2,7 +2,7 @@
 
 Ingests product, discount, config, and group events from EventBridge (via SQS) and writes to OpenSearch and DynamoDB.
 
-**Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS (fed by EventBridge)
+**Repo:** [gap-commerce/selltreez-injection-srv](https://github.com/gap-commerce/selltreez-injection-srv) | **Language:** Go | **Runtime:** AWS Lambda (ARM64) | **Trigger:** SQS (fed by EventBridge)
 
 ## Event types handled
 
